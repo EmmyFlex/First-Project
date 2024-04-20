@@ -41,6 +41,10 @@ ul {
     opacity: 1px;
 }
 
+.container marquee {
+    color: #eca5a9c0;
+}
+
 .second-section {
     text-align: center;
     /* justify-content: center;
